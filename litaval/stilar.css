@@ -8,27 +8,15 @@ body {
 .vetur {
 	display: none;
 }
-.haust h1 {
-	font-size: 5em;
-	color: #ffa;
-}
+
 .haust {
-	/*haust stílar hér*/
-	background: linear-gradient(to top left, blue, red); /* Standard syntax (must be last) */
-	position: fixed;
-	width: 100%;
-	height: 100%;
-  	margin: 0;
-  	padding: 0;
-  
-	display: flex; 
-	justify-content: center;
-	align-items: center;
-	align-content: center;
+
+	display: none;
+
 }
 .vor {
-	/*haust stílar hér*/
-	background: linear-gradient(to top left,  yellow, red); /* Standard syntax (must be last) */
+	/*vor stílar hér*/
+	background: linear-gradient(to top left,  yellow, green); /* Standard syntax (must be last) */
 	position: fixed;
 	width: 100%;
 	height: 100%;
@@ -42,5 +30,5 @@ body {
 }
 .vor h1 {
 	font-size: 5em;
-	color: #99f;
+	color: #ff8;
 }
