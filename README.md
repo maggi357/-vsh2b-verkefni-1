@@ -1,6 +1,8 @@
 
 #GitHub einstaklingsverkefni 
 
+Hér er stór og feit breyting, ekki hægt að neita því.
+
 ##Árekstur (branches and merge)
 
 <ol>
@@ -30,3 +32,4 @@
 *	Verkefnaskil á Innu, setjið tengla í 'Athugasemdir' á:  
 	*	Github reiningin þinn 
 	*	Hópverkefnið (master). 
+	
